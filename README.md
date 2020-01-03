@@ -17,3 +17,7 @@ This is a simple web project - deployment can be done on any webserver.
 
 ## How to contribute
 
+## Copyright
+
+2019: Git-Gud
+
