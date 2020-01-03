@@ -17,6 +17,8 @@ This is a simple web project - deployment can be done on any webserver.
 
 ## How to contribute
 
+Please fork this repository and then issue a Pull Request for review.
+
 ## Copyright
 
 2019: Git-Gud
